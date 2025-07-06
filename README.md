@@ -41,9 +41,9 @@ git clone [url-репозитория]
 
 ```
 Timeline/
-├── index.html      # Основная HTML страница
-├── style.css       # Стили CSS
-└── README.md       # Документация проекта
+index.html      # Основная HTML страница
+style.css       # Стили CSS
+README.md       # Документация проекта
 ```
 
 ## 🎯 События в временной шкале
